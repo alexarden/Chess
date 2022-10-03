@@ -118,7 +118,7 @@ class Piece {
     let result = [];
 
     //get all moves on board in given direction with loop.  
-      //direction is defined with both row and col values.
+    //direction is defined with both row and col values.
 
     for (let i = 1; i < 8; i++) {
 
