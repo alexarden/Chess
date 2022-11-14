@@ -65,13 +65,13 @@ tr:nth-child(even) td:nth-child(even){
 
 /* piece images */
 
-img.GoldPawns{ 
+img.goldPawns{ 
   width: 50px;
   height: 75px;
   margin-left: 22px;
 }   
 
-img.SilverPawns{
+img.silverPawns{
   width: 45px;
   height: 80px;
   margin-left: 22px;
