@@ -48,7 +48,7 @@ function getNewBoard() {
 
 const addImage = (cell, type, player) => {
   image = document.createElement('img');
-  image.src = `./img/${player}_${type}.png`;
+  image.src = `../img/${player}_${type}.png`; 
   image.classList.add(`${player}Pawns`);
   image.draggable = false; 
   cell.appendChild(image);
