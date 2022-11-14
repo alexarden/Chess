@@ -40,25 +40,25 @@ td{
 tr:nth-child(even) td:nth-child(odd){  
   position: relative;
   /* background-color: rgb(76, 76, 76); */
-  background-image: url('/img/GoldSquare.png');  
+  background-image: url('img/GoldSquare.png');  
 }
 
 tr:nth-child(odd) :nth-child(even){
   position: relative;
   /* background-color: rgb(76, 76, 76); */
-  background-image: url('/img/GoldSquare.png');
+  background-image: url('img/GoldSquare.png');
 }
 
 tr:nth-child(odd) td:nth-child(odd){  
   position: relative;
   /* background-color: rgb(76, 76, 76); */
-  background-image: url('/img/SilverSquare.png');  
+  background-image: url('img/SilverSquare.png');  
 } 
 
 tr:nth-child(even) td:nth-child(even){  
   position: relative;
   /* background-color: rgb(76, 76, 76); */
-  background-image: url('/img/SilverSquare.png');  
+  background-image: url('img/SilverSquare.png');  
 } 
 
 
